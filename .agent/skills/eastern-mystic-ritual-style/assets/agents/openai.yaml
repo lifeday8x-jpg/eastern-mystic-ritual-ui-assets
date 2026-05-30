@@ -1,0 +1,4 @@
+interface:
+  display_name: "东方玄幻仪式 UI 风格系统"
+  short_description: "玉石铜器、山海水墨、符纹星盘 — 仪式感手游 UI 美术风格"
+  default_prompt: "Use $eastern-mystic-ritual-ui-style to create a vertical mobile game asset brief in the eastern mystic ritual style. User provides their core concept, skill provides style direction."
